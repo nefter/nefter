@@ -13,14 +13,16 @@ Contact me:
 ---
 
 ### :zap: Recent Activity
-🎉 Merged PR [#6](https://github.com//nefter/react/pull/1) in [nefter/react](https://github.com//nefter/react)
+
+<!--START_SECTION:activity-->
+🎉 Merged PR [#6](https://github.com//ndxhaus/react/pull/1) in [ndxhaus/react](https://github.com//ndxhaus/react)
 <!--END_SECTION:activity-->
 
 ---
-- 🌱 I’m currently learning Django & Cloud deployment
-- 👯 I’m looking to collaborate on Web Design
+- 🌱 I’m currently working on my Django & Cloud skills
+- 👯 I’m looking to collaborate on Web Projects
 - 🤔 I’m looking for help with Python Development
-- 💬 Ask me about trekking
+- 💬 Ask me about trekking and music
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Mexican
 -->
