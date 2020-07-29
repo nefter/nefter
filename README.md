@@ -15,7 +15,7 @@ Contact me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-🎉 Merged PR [#6](https://github.com//ndxhaus/react/pull/1) in [ndxhaus/react](https://github.com//ndxhaus/react)
+🎉 Merged PR [#4364](https://github.com//js-org/js.org/pull/4364) in [js-org/js-org](https://github.com//js-org/js-org)
 <!--END_SECTION:activity-->
 
 ---
