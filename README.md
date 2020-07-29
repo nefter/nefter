@@ -15,7 +15,7 @@ Contact me:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-🎉 Merged PR [#4364](https://github.com//js-org/js.org/pull/4364) in [js-org/js-org](https://github.com//js-org/js-org)
+🎉 Merged PR [#4364](https://github.com//js-org/js.org/pull/4364) in [js-org/js.org](https://github.com//js-org/js.org)
 <!--END_SECTION:activity-->
 
 ---
