@@ -2,7 +2,7 @@
 
 I'm Neftaly. I work as a Web Designer, I like Design and Frontend development.
 
-🔭 I’m currently working on Django projects like [Catshop](github.com/nefter/catshop)
+🔭 I’m currently working on Django projects like [Catshop](https://github.com/nefter/catshop)
 
 📫 Contact me:
 
