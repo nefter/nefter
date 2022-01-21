@@ -2,7 +2,7 @@
 
 I'm Neftaly. I work as a Web Designer, I like Design and Frontend development.
 
-🔭 I’m currently working on Django projects like [Catshop](https://github.com/nefter/catshop)
+🔭 I’m currently working on Ruby on Rails projects like [Public Domain](https://github.com/nefter/public-domain)
 
 📫 Contact me:
 
@@ -10,22 +10,12 @@ I'm Neftaly. I work as a Web Designer, I like Design and Frontend development.
 
 👯 I’m looking to collaborate in Web Projects
 
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him/Él
 
 ⚡ Fun fact: I'm from Mexico
 
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-🎉 Merged PR [#4364](https://github.com//js-org/js.org/pull/4364) in [js-org/js.org](https://github.com//js-org/js.org)
-<!--END_SECTION:activity-->
-
----
 
 <!--
-- 🌱 I’m currently working on my Django & Cloud skills
-- 🤔 I’m looking for help with Python Development
+- 🌱 I’m currently working on my Rails skills
 - 💬 Ask me about trekking and music
 -->
