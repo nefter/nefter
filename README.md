@@ -1,6 +1,6 @@
 ### Howdy!
 
-I'm Neftaly. I work as a Web Designer, I like Design and Frontend development.
+I'm Neftaly. I work as a Web Developer.
 
 🔭 I’m currently working on Ruby on Rails projects like [Public Domain](https://github.com/nefter/public-domain)
 
